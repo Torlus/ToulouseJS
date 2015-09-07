@@ -1,0 +1,48 @@
+{
+	"site-title": "Toulouse JS - L'évènement JavaScript du Sud-Ouest",
+	"menu": [{
+		"href": "#prochain-toulousejs",
+		"text": "Prochain Toulouse JS"
+	},{
+		"href": "#toulousejs-7",
+		"text": "Toulouse JS 7"
+	},{
+		"href": "#toulousejs-6",
+		"text": "Toulouse JS 6"
+	},{
+		"href": "#toulousejs-5",
+		"text": "Toulouse JS 5"
+	},{
+		"href": "#toulousejs-4",
+		"text": "Toulouse JS 4"
+	},{
+		"href": "#toulousejs-3",
+		"text": "Toulouse JS 3"
+	},{
+		"href": "#toulousejs-2",
+		"text": "Toulouse JS 2"
+	},{
+		"href": "#toulousejs-1",
+		"text": "Toulouse JS 1"
+	},{
+		"href": "#organisateurs",
+		"text": "Les organisateurs"
+	}],
+	"social": [{
+		"text": "Twitter",
+		"href": "https://www.twitter.com/ToulouseJS",
+		"class": "twitter"
+	},{
+		"text": "GitHub",
+		"href": "https://github.com/francejs/ToulouseJS",
+		"class": "github"
+	},{
+		"text": "Google +",
+		"href": "https://plus.google.com/u/0/communities/114813405129984534292",
+		"class": "google-plus"
+	},{
+		"text": "Flickr",
+		"href": "http://www.flickr.com/toulousejs",
+		"class": "flickr"
+	}]
+}
